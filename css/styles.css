@@ -170,16 +170,8 @@ img {
   color: var(--accent-color);
 }
 
-.contacts-link:hover .contacts-icon {
-  fill: var(--accent-color);
-}
-
-.contacts-link:focus .contacts-icon {
-  fill: var(--accent-color);
-}
-
 .contacts-icon {
-  fill: var(--secondary-text-color);
+  fill: currentColor;
 }
 
 /* ============Hero=========== */
